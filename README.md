@@ -21,3 +21,5 @@ git clone https://github.com/laiaRomera/personal-expenses-analysis.git
 # Autor 
 Laia Romera Macías  
 Junior Python & Data Analysis Student  
+# personal-expenses-analysis
+Personal expenses analysis using Python.
